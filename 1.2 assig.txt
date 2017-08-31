@@ -1,0 +1,21 @@
+Difference between JVM,JDK & JRE 
+
+JVM : JVM is known as Java Virtual Machine is an abstract computing machine.
+
+1.There are three notions of the JVM: specification, implementation, and instance. 
+2.An instance of a JVM is an implementation running in a process that executes a computer program compiled into Java bytecode.
+3.java virtual machine for many hardware and also software platforms.
+
+
+JDK : java Development Kit(JDK) is a superset of a JRE and contains tools for Java programmers.
+
+1.JDK is a software development environment used for developing Java applications and applets.
+2.There are different JDKs for various platforms.The supported platforms include Windows, Linux and Solaris. 
+3.JDK consists of JVM and Java Compiler,Java Class Libraries.
+
+
+JRE : JRE is known as Java Run Time Enviornment.It is required to run a java program.
+
+1.JRE is the implementation of JVM.
+2.JRE provides class libraries and other supportinf files with jvm.
+3.The JRE does not contain tools and utilities such as compilers or debuggers for developing applets and applications.
